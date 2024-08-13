@@ -3,7 +3,7 @@
 
 <h3 align="left">A passionate Data Analyst from India living in Germany</h3>
 
-- 🔭 I’m currently learning on **Big Data Analytics and Data visualization**
+- 🔭 I’m currently learning on **Artificial Intelligence and Data visualization**
 
 - 🌱 I’m currently stydying **Masters in Data Analytics**
 
@@ -14,6 +14,10 @@
 <h2 align="left">Tools I Use</h2>
 
 - **Microsoft Power BI**
+  
+- **Big Data Technology**
+  
+- **Database Management**
 
 - **Excel**
 
