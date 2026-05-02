@@ -2,6 +2,8 @@
 
 <h3 align="left">Data Analytics Graduate | Machine Learning | Product-Focused Analytics</h3>
 
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*ei_Ce5ZqUHkhF9N1oku3Hg.gif">
+
 <p>
 I am a Data Analytics graduate based in Germany with a strong interest in applying data-driven approaches to real-world problems, particularly in product systems and decision-making.
 </p>
@@ -21,7 +23,7 @@ I am a Data Analytics graduate based in Germany with a strong interest in applyi
 <li>Demonstrated how data analytics can improve product performance in custom manufacturing systems</li>
 </ul>
 
-👉 <a href="https://github.com/YOUR-USERNAME/predicting-fit-success-ml">View Project</a>
+👉 <a href="https://github.com/Amaad-Ahmed/predicting-fit-success-ml">View Project</a>
 
 ---
 
@@ -39,6 +41,6 @@ I am a Data Analytics graduate based in Germany with a strong interest in applyi
 <h2 align="left">📫 Contact</h2>
 
 <p>
-Email: gagrooamaad@gmail.com<br>
-LinkedIn: <a href="https://www.linkedin.com/in/amaadahmed">Your LinkedIn</a>
+Email: amaadgagroo@gmail.com<br>
+LinkedIn: <a href="https://www.linkedin.com/in/amaadahmed">LinkedIn</a>
 </p>
